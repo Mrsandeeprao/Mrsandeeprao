@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsandeeprao&label=Profile%20views&color=0e75b6&style=flat" alt="mrsandeeprao" /> </p>
 
-- 🌱 I’m currently learning **Docker, DevOPs**
+- 🌱 I’m currently learning **terraform**
 
 - 👯 I’m looking to collaborate on **cloud projects**
 
