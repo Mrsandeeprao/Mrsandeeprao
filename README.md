@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **cloud projects**
 
-- 🤝 I’m looking for help with **Internship**
+- 🤝 I’m looking for help with **Full Time position**
 
 - 💬 Ask me about **my projects**
 
